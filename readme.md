@@ -10,3 +10,5 @@ git add sample.c
 git commit -m "some_message"  
 git remote add origin https://github.com/californi/Playground_Shellscripting.git  
 git push origin master  
+
+git pull https://github.com/californi/Playground_Shellscripting.git master
