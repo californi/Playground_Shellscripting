@@ -1,6 +1,6 @@
 # This repository was defined in order to develop scenarios involving the usage of Shell Scripting. As a programning language as a linguage to define automation scripts for Unix systems.
 
-# Proceedings for GIT
+# Procedure for GIT
 sudo apt-get install git  
 git config --global user.name "user_name"  
 git config --global user.email "email_id"  
