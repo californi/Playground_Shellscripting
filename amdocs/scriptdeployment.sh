@@ -2,6 +2,9 @@
 
 #https://get.docker.com/   shell para instalar o docker
 # Um proximo passo seria gerar o dockerfile (ou colocar o Dockerfile junto com o git)
+# Caso não tenha o docker, pode-se utilizar uma instalação como a disponível acima
+# Deve-se ter uma key de ssh da conta git logada
+# Deve-se informar uma nova porta como parâmetro
 
 if [ $# -ne 1 ]
 then
